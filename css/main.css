@@ -1,0 +1,140 @@
+/*** sectioning elements ***/
+
+body {
+    background-color: #bf4040;
+}
+
+header {
+
+}
+
+main {
+    font-size: 30px;
+    text-align: center;
+font-family: 'Marcellus', serif;
+}
+
+main.menu {
+  text-align: left;
+  padding-left: 2cm
+}
+
+footer {
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+font-family: 'Marcellus', serif;
+}
+
+h2.menu {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Marcellus', serif;
+}
+
+h3 {
+  font-size: 40px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+h5 {
+  font-size: 38px;
+  text-align: left;
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+ text-align: center;
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+ color: #4d1919;
+}
+
+a:visited {
+ color: #4e1818;
+}
+
+a:hover {
+ color: #742525;
+}
+
+a:active {
+ color: #ae3737;
+}
