@@ -99,14 +99,16 @@ li {
 
 table {
  text-align: center;
+ max-width: 100%;
+ color: #000000;
 }
 
 tr {
-
+color: #000000;
 }
 
 th {
-
+color: #000000;
 }
 
 td {
